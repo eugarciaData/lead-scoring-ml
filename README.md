@@ -1,10 +1,10 @@
-# Lead Scoring - Proyecto de Data Science
+# 🚀 Lead Scoring con Regresión Logística
 
-## Descripción del Proyecto
+## 📌 Descripción del Proyecto
 
 Este proyecto de Lead Scoring tiene como objetivo identificar y clasificar clientes con mayor probabilidad de conversión. Sin embargo, solo puedo compartir los resultados finales y el código de producción debido a que lo aprendido forma parte de una formación privada.
 
-## Contenido del Repositorio
+## 📂 Contenido del Repositorio
 
 En este repositorio encontrarás los siguientes notebooks y archivos clave:
 
@@ -13,7 +13,7 @@ En este repositorio encontrarás los siguientes notebooks y archivos clave:
 3. **Código de Reentrenamiento** : Proceso automatizado para actualizar el modelo con nuevos datos y mejorar su desempeño con el tiempo.
 4. **Código de Ejecución** : Script final para realizar predicciones sobre nuevos leads.
 
-## Estructura del Proyecto
+## 🏗️ Estructura del Proyecto
 
 A continuación, se presentan los pasos que fueron llevados a cabo en el desarrollo del proyecto, aunque los archivos correspondientes a las primeras fases no pueden ser compartidos por razones de privacidad:
 
@@ -28,15 +28,15 @@ A continuación, se presentan los pasos que fueron llevados a cabo en el desarro
 9. **Código de Reentrenamiento** *(Incluido en este repositorio)*
 10. **Código de Ejecución** *(Incluido en este repositorio)*
 
-## Datos Utilizados
+## 📈 Datos Utilizados
 
 Por restricciones de privacidad, los datos originales del proyecto no pueden ser compartidos. Sin embargo, en los notebooks incluidos se pueden observar los resultados finales y la lógica del código implementado.
 
-## Consideraciones Importantes
+## ⚠️ Consideraciones Importantes
 
 Este repositorio está diseñado únicamente para mostrar el trabajo realizado en el proyecto, por lo que **no se proporciona una licencia ni archivos de entorno (`environment.yml` o `requirements.txt`) para su ejecución.**
 
-## Contacto
+## 📬 Contacto
 
 Si tienes preguntas o sugerencias sobre el proyecto, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/eugarciadata/) o [eugeniogarciacm@gmail.com](eugeniogarciacm@gmail.com).
 
