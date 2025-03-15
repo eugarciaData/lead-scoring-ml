@@ -32,7 +32,7 @@ A continuación, se presentan los pasos que fueron llevados a cabo en el desarro
 
 Por restricciones de privacidad, los datos originales del proyecto no pueden ser compartidos. Sin embargo, en los notebooks incluidos se pueden observar los resultados finales y la lógica del código implementado.
 
-## ⚠️ Consideraciones Importantes
+## 🔐 Consideraciones Importantes
 
 Este repositorio está diseñado únicamente para mostrar el trabajo realizado en el proyecto, por lo que **no se proporciona una licencia ni archivos de entorno (`environment.yml` o `requirements.txt`) para su ejecución.**
 
